@@ -68,7 +68,8 @@ Los archivos van a la carpeta de destino elegida
 Este convertidor funciona totalmente local, lo que garantiza la privacidad de tus documentos fiscales. No hay conexión a internet ni envío de datos.
 
 ## 📸 Capturas (opcional)
-<sub>Puedes agregar aquí imágenes o GIFs mostrando la interfaz</sub>
+![image](https://github.com/user-attachments/assets/480f3f62-d1ea-45f5-aeb7-a898adddd171)
+
 
 ## 🤝 Contribuciones
 ¿Quieres mejorar el formato, agregar timbre digital con QR, o generar ejecutables para Windows/Linux? ¡Contribuye o abre un issue!
