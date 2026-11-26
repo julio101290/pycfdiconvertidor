@@ -68,7 +68,7 @@ Olvídate de subir tus facturas a convertidores web llenos de publicidad, límit
   </table>
 </div>
 
-> *💡 Nota: Guarda tus capturas como `assets/interfaz.png` y `assets/ejemplo_pdf.png` dentro del repositorio para que se muestren automáticamente en esta tabla.*
+> 
 
 ---
 
