@@ -2,7 +2,6 @@
 
 Convierte tus archivos XML CFDI 4.0 del SAT a PDF de forma masiva, rápida y con una interfaz gráfica amigable. Este proyecto en Python te permite visualizar todos los datos fiscales importantes, incluyendo el UUID, el emisor, receptor, productos, claves SAT, unidades de medida, y más.
 
-<img width="882" height="688" alt="image" src="https://github.com/user-attachments/assets/b1915e79-84b9-4f11-b6df-9065116e5869" />
 
 
 ---
@@ -71,7 +70,8 @@ Los archivos van a la carpeta de destino elegida
 Este convertidor funciona totalmente local, lo que garantiza la privacidad de tus documentos fiscales. No hay conexión a internet ni envío de datos.
 
 ## 📸 Capturas (opcional)
-![image](https://github.com/user-attachments/assets/480f3f62-d1ea-45f5-aeb7-a898adddd171)
+<img width="882" height="688" alt="image" src="https://github.com/user-attachments/assets/b1915e79-84b9-4f11-b6df-9065116e5869" />
+
 
 
 ## 🤝 Contribuciones
